@@ -1,3 +1,3 @@
-# codespace-github
+# Sobre a Samsung
 
-Teste Codespace
+Explicando a origem da Samsung e Curiosidades dela
